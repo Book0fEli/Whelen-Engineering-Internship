@@ -27,7 +27,7 @@ Operating in a high-throughput hybrid manufacturing and enterprise environment, 
 +-----------------------------------------------------------------------------------+
 |                            ELIJAH CORDOVA - ITOPS DOMAINS                         |
 +---------------------+---------------------+-------------------+-------------------+
-| 🏭 Industrial IT &  | 🌐 Network & Fleet  | 🛡️ Identity &      | 💻 Endpoint Eng.  |
+| 🏭 Industrial IT &  | 🌐 Network & Fleet  | 🛡️ Identity &   | 💻 Endpoint Eng.  |
 |    Shop Floor       |    Modernization    |    Access Control |    & Lifecycle    |
 +---------------------+---------------------+-------------------+-------------------+
 | • CK71/CK75 Fleets  | • IoT Segmentation  | • AD Provisioning | • Modern Imaging  |
