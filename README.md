@@ -251,7 +251,7 @@ The table below outlines the full registry of assigned tickets, detailing the fu
 Elijah actively collaborated with fellow IT Operations specialists and cross-departmental stakeholders to ensure smooth daily operations:
 
 - **IT Operations Peers:** Will Collins, David Anderson, Joshua Shook, Billy Whipple, Trey Neubert, John Keefe
-- **Leadership & Supervision:** Scott Fitzgerald
+- **Leadership & Supervision:** Scott Fitzgerald, Anthony Paturzo, Ashley Pye
 - **Manufacturing & Engineering Stakeholders:** Production Line Supervisors (SMT, Aviation, Assembly, Hotmelt), Quality Engineers, Facilities Personnel, Warehouse & Inventory Logistics Leads
 
 ---
