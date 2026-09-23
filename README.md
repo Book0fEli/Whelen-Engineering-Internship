@@ -3,7 +3,6 @@
 **Role:** PC Support Specialist / IT Operations  
 **Organization:** Whelen Engineering — IT Operations (ITOps)  
 **Reporting Period:** Summer / Fall 2026  
-**Security Classification:** Public / Sanitized Portfolio (Security & Privacy Compliant)
 
 ---
 
